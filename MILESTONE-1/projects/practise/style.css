@@ -1,0 +1,23 @@
+.blog{
+    background-color: aqua;
+    border: 40px solid black;
+    border-radius: 20px;
+    padding: 20px 140px;
+
+    width: 50%;
+    height: 400px;
+    margin: 10% auto;
+}
+.blog-title{
+    text-align: center;
+}
+.author-name{
+    color: red;
+    font-size: 4em;
+}
+.blog p{
+    color: brown;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+}
