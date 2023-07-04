@@ -1,0 +1,182 @@
+*{
+    padding: 0;
+    margin: 0;
+
+
+    text-decoration: none;
+}
+body{
+
+}
+.section-1{
+    background-color: #c7f593;
+    margin: 10px 0px;
+}
+
+.section-2{
+    background-color: #12233E;
+    margin: 10px 0px;
+}
+
+.section-3{
+
+    margin: 10px 0px;
+}
+
+.border{
+    width: auto;
+    height: fit-content;
+    border: 5px;
+    border-style: solid;
+    border-color: white;
+}
+
+
+
+.red{
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-width: 2px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+}
+
+.yellow{
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    border-width: 2px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+}
+
+.green{
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border-width: 2px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+}
+
+.navbar-background{
+
+    width: auto;
+    height: fit-content;
+    background-color:black;
+    padding: 5px;
+
+
+
+}
+
+.amazon-logo{
+    color: orange;
+    font-size: 25px;
+}
+
+a{
+    margin-right: 300px; 
+    color: white;
+}
+
+.div1{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+
+}
+
+
+.div1{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: rgba(0, 0, 255, 0.5);
+
+}
+
+.div2{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: rgba(0, 0, 255, 0.75);
+
+}
+
+.div3{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: rgba(0, 0, 255, 1);
+
+}
+
+.contentBox1, .contentBox2, .contentBox3{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+
+}
+
+
+.contentBox1{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+.contentBox2{
+    background-color: rgba(0, 255, 0, 0.5);
+}
+.contentBox3{
+    background-color: rgba(0, 0, 255, 0.5);
+}
+
+
+footer{
+    background-color:black;
+    color: white;
+    text-align: center;
+
+    
+}
+#content{
+    height: 200px;
+
+}
+
+#box1{
+    height: 100px;
+    width: 200px;
+    background-color: forestgreen;
+    font-size: 10px;
+}
+    
+#box2{
+    height: 50px;
+    /* width: 50px; */
+    width: 30%;
+    background-color: gold;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 5rem;
+    height: 1vh;
+}
+
+    
+    
+
