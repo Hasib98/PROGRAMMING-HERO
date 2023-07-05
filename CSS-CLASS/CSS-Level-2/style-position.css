@@ -1,0 +1,38 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#box1{
+    background-color: red;
+    /* position: static; */
+    top: 10px;
+  
+}
+
+#box2{
+    background-color: green;
+    position: relative;  
+    /* top: 0px;
+    left: 0px; */
+    /* z-index: 1; */
+    top: 100px;
+}
+#box3{
+    background-color: aqua;
+    /* position: absolute;   */
+    /* top: 300px;
+    left: 20px; */
+  
+}
+#box4{
+    background-color: pink;
+    /* position: fixed; */
+    /* top: 0px; */
+    /* z-index: -3; */
+
+}
+
