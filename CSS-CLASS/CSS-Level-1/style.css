@@ -1,0 +1,31 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: red;
+    text-align: center;
+    text-decoration: underline dashed blue;
+    text-transform: capitalize;
+}
+
+p {
+    text-align: center;
+    width: 50%;
+
+}
+
+#mypara {
+    text-align: center;
+    width: 50%;
+    line-height: normal;
+    text-transform: none;
+}
+
+#inner{
+    font-size: 10px;
+}
+
+#outer{
+    font-size: 25px;
+}
